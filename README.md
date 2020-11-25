@@ -6,7 +6,7 @@ Website portfolio ini dibangun dengan menggunakan :
 - CSS
 - Javascript
 - Icon Set: Boxicon
-- Bootstrap 5
+- Bootstrap 4
 
 Assets :
-Ilustrasi Gambar Freepik, [Source](https://www.freepik.com/free-vector/code-typing-concept-illustration_9712737.htm#page=1&query=coding&position=31)
+Ilustrasi Gambar Freepik [Source](https://www.freepik.com/free-vector/code-typing-concept-illustration_9712737.htm#page=1&query=coding&position=31)
